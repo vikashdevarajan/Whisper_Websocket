@@ -1,0 +1,18 @@
+# Web framework and server
+fastapi
+uvicorn[standard]
+websockets
+
+# AI and Audio Processing (from your script)
+openai-whisper
+torch
+numpy
+
+fastapi
+uvicorn[standard]
+websockets
+openai-whisper
+torch
+numpy
+scipy
+webrtcvad-wheels
